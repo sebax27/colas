@@ -29,7 +29,7 @@ public class Empleado {
         this.apellido = apellido;
     }
 
-    public double getSalario() {
+    public int getSalario() {
         return salario;
     }
 
